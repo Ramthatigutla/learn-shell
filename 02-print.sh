@@ -21,3 +21,5 @@ echo -e "\e[33m how is the training going \e[0m"
 echo -e "\e[34m feel free to ask queries to learn more \e[0m "
 echo -e "\e[35m Hardwork never fails \e[0m"
 echo -e "\e[36m all the very best \e[0m"
+
+# practice
