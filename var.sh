@@ -1,3 +1,3 @@
 a=10
 
-echo "value of a : ${a}"
+echo "value of a is : ${a}"
